@@ -12,7 +12,7 @@
   "editor.minimap.showSlider": "mouseover",
   "editor.minimap.side": "right",
   "editor.minimap.autohide": false,
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
   "editor.minimap.size": "proportional",
   "editor.bracketPairColorization.enabled": true,
   "editor.guides.bracketPairs": true,
