@@ -7,7 +7,7 @@
 @font-face {
   font-display: swap;
   font-family: Prompt;
-  src: url("./../assets/Prompt/Prompt-ExtraBold.ttf") format("truetype");
+  src: url("./../assets/Prompt/Prompt-SemiBold.ttf") format("truetype");
 
 }
 
@@ -16,6 +16,34 @@ body {
   height: 100%;
   margin: 0;
   padding: 0;
+}
+
+.top-header {
+  background: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 29px;
+  
+  & nav button {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    padding: 3px;
+    background: #000;
+  }
+
+}
+  
+
+& h1 {
+  width: 100%;
+  font-family: Prompt, sans-serif;
+  font-size: 300%;
+}
+
+& p {
+  text-wrap: wrap;
 }
 
 main {
