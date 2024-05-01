@@ -19,33 +19,23 @@ body {
 }
 
 .top-header {
-  background: #333;
+  background: #888;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 29px;
   
-  & nav button {
-    width: 60px;
-    height: 60px;
-    border-radius: 100%;
-    padding: 3px;
-    background: #000;
+  & h1 {
+    font-family: Prompt, sans-serif;
+    font-size: 12vw;
+  }
+  
+  & p {
+    text-wrap: wrap;
   }
 
 }
   
-
-& h1 {
-  width: 100%;
-  font-family: Prompt, sans-serif;
-  font-size: 300%;
-}
-
-& p {
-  text-wrap: wrap;
-}
-
 main {
   display: flex;
   flex-direction: column;
