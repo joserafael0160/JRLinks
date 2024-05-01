@@ -15,25 +15,63 @@ body {
   background: #171717 linear-gradient(#171724, #171727);
   height: 100%;
   margin: 0;
-  padding: 0;
+  padding: 5px 0 0;
 }
 
 .top-header {
-  background: #888;
+  border: 2px solid transparent;
+  border-radius: 20px;
+  background: 
+    linear-gradient(#272727, #272727), 
+    linear-gradient(to right, #579, #a4a); 
+  background-clip: padding-box, border-box;
+  background-origin: padding-box, border-box;
+  width: 85%;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 29px;
-  
+  position: relative;
+  margin: auto;
+  padding: 20px;
+  height: 50%;
+  max-width: 1000px;
+
+  & div {
+    border-radius: 100%;
+    width: 30vw;
+    height: 30vw;
+    border: 1px solid;
+    overflow: hidden;
+    background: url("./../assets/webp/photo_2024-04-30_22-46-20.webp") no-repeat center;
+    background-size: 100%;
+  }
+
   & h1 {
     font-family: Prompt, sans-serif;
-    font-size: 12vw;
+    font-size: 9vw;
+
   }
   
   & p {
     text-wrap: wrap;
+    font-size: 4vw;
+    margin-bottom: 5px;
   }
+  
+  @media screen and (width > 1100px) {
+    div {
+      height: 300px;
+      width: 300px;
+    }
 
+    h1 {
+      font-size: 6em;
+    }
+
+    p {
+      font-size: 2em;
+    }
+  }
 }
   
 main {
