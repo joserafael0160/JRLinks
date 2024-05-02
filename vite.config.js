@@ -2,6 +2,7 @@ import tsconfigPaths from "vite-tsconfig-paths";
 import { defineConfig } from "vite";
 import path from "node:path";
 import postcss from "./postcss.config.js";
+import { terser } from "rollup-plugin-terser";
 
 const isGitHubPages = true;
 const folderName = path.basename(process.cwd()) + "/";
@@ -25,6 +26,14 @@ export default defineConfig({
     assetsDir: "./",
     css: {
       postcss,
+    },
+    rollupOptions: {
+      plugins: [
+        terser()
+      ]
     }
+  },
+  optimizeDeps: {
+    include: ["@babel/preset-env"]
   }
 });

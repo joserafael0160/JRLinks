@@ -1,6 +1,6 @@
 const userLanguage = navigator.language || navigator.userLanguage;
 
-if (!userLanguage.startsWith("es")) {
+if (userLanguage.startsWith("es")) {
   fetch("./../languages/es.json")
     .then(response => response.json())
     .then(data => {
@@ -13,8 +13,6 @@ if (!userLanguage.startsWith("es")) {
       const section3 = document.querySelector(".games-educational-h2");
       section3.textContent = data.sections.section3;
     });
-} else {
-  console.log("aaa");
 }
 
 //  console.log(userLanguage);
