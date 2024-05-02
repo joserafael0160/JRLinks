@@ -133,10 +133,8 @@ main {
     padding: 5px 3px;
     position: relative;
     min-height: 8vw;
-    max-height: 50px;
     transition: 0.1s;
     
-
     &:hover{
       transform: scale(1.04);
       filter: brightness(1.2);
@@ -169,7 +167,7 @@ main {
     }
   }
 
-  & .social-accounts {
+  & .social-networks {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(4, 1fr);
 
