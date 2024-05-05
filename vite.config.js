@@ -1,13 +1,13 @@
 import tsconfigPaths from "vite-tsconfig-paths";
 import { defineConfig } from "vite";
-import path from "node:path";
+// import path from "node:path";
 import postcss from "./postcss.config.js";
 import { terser } from "rollup-plugin-terser";
 
-const isGitHubPages = true;
-const folderName = path.basename(process.cwd()) + "/";
+//  const isGitHubPages = true;
+//  const folderName = path.basename(process.cwd()) + "/";
 const mode = process.env.NODE_ENV === "production" ? "production" : "development";
-const based = mode === "production" && isGitHubPages ? "/" + folderName : "./";
+//  const base = mode === "production" && isGitHubPages ? "/" + folderName : "./";
 const base = "./";
 
 export default defineConfig({
