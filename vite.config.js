@@ -7,7 +7,8 @@ import { terser } from "rollup-plugin-terser";
 const isGitHubPages = true;
 const folderName = path.basename(process.cwd()) + "/";
 const mode = process.env.NODE_ENV === "production" ? "production" : "development";
-const base = mode === "production" && isGitHubPages ? "/" + folderName : "./";
+const based = mode === "production" && isGitHubPages ? "/" + folderName : "./";
+const base = "./";
 
 export default defineConfig({
   root: "src",
