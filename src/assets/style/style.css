@@ -135,14 +135,19 @@ main {
     position: relative;
     min-height: 8vw;
     transition: 0.1s;
-    
+
     &:hover{
       transform: scale(1.04);
       filter: brightness(1.2);
-
+      
       & small {
         display: block;
       }
+    }
+    
+    &:active{
+      transform: scale(1.1);
+      filter: brightness(1.2);
     }
 
     & h4 {
