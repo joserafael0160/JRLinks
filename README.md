@@ -24,8 +24,8 @@
 
 ## 👀 Preview
 <h4>In a PC (1920x1080)</h4> 
-<img src="./src/assets/jrlinks-PC.png">
-<h4>In iPhone SE (375x667)</h4>
+<img src="./src/assets/jrlinks-PC.webp">
+<h4>In a iPhone SE (375x667)</h4>
 <img src="./src/assets/jrlinks-iPhone-SE.png" alt="project-screenshot" width="400">
 
 ## 💬 Features
@@ -34,8 +34,8 @@
 - **Open Graph and Twitter Tags**: Open Graph and Twitter meta tags have been included, which optimize the preview of the website on social platforms like Facebook and Twitter.
 - **Responsive Design**: The website has been designed to be responsive, which means it will look good on devices of all sizes.
 - **Language Localization**: A script for changing the language has been added, making the site more accessible to users who speak different languages.
+  
 ## 🛠️ Stack
-
 - [**Vite**](https://vitejs.dev/) - It’s a fast and flexible tool for building and testing JavaScript applications.
 - [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML) - It’s the standard markup language for web pages.
 - [**PostCSS**](https://postcss.org/) - It allows you to use modern CSS features and plugins to write and process CSS with JavaScript.
@@ -101,6 +101,3 @@ pnpm run dev
 
 ## 🛡️ License
 [MIT](#) - Created by [José Rafael](https://github.com/joserafael0160)
-
-
-
