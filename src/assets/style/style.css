@@ -64,8 +64,8 @@ body {
     flex-flow: row wrap;
 
     img {
-      height: 200px;
-      width: 200px;
+      height: 170px;
+      width: 170px;
       margin: 20px 70px;
     }
 
@@ -149,8 +149,12 @@ main {
       transform: scale(1.1);
       filter: brightness(1.2);
     }
+    
+    @media screen and (width > 1400px) {
+      min-height: 5vw;
+    }
 
-    &h3 {
+    & h3 {
       font-size: 3vw;
     }
 
