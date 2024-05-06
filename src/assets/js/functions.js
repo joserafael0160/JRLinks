@@ -1,6 +1,7 @@
 import { descriptionElement, section1, section2, section3, userLanguage } from "./consts.js";
 
 function init(data) {
+  document.documentElement.lang = userLanguage;
   descriptionElement.innerHTML = data.profile.description;
   section1.innerHTML = data.sections.section1;
   section2.innerHTML = data.sections.section2;
