@@ -8,7 +8,7 @@ function init(data) {
 }
 
 export const changeLanguage = async language => {
-  await fetch(`./../../locales/${userLanguage}.json`)
+  await fetch(`/locales/${userLanguage}.json`)
     .then(req => req.json())
     .then(data => init(data))
     .catch(error => console.error(error));

@@ -1,0 +1,10 @@
+{
+  "profile": {
+    "description": "This page brings <strong>all my links</strong> together in one place."
+  },
+  "sections": {
+    "section1": "Social Networks",
+    "section2": "Messaging",
+    "section3": "Games/Educational Platforms"
+  }
+}
