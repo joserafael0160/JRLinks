@@ -14,35 +14,35 @@ Si quieres leer este readme en ingles:
 </p>
 
 <div align="center">
-    <a href="#-Acerca-Del-Proyecto" target="_blank">
+    <a href="#-acerca-del-proyecto" target="_blank">
         Acerca Del Proyecto
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Vista-Previa" target="_blank">
+    <a href="#-vista-previa" target="_blank">
         Vista Previa
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Características" target="_blank">
+    <a href="#-características" target="_blank">
         Características
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Tecnologías" target="_blank">
+    <a href="#-tecnologías" target="_blank">
         Tecnologías
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Cómo-Empezar" target="_blank">
+    <a href="#-cómo-empezar" target="_blank">
         Cómo Empezar
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Comandos" target="_blank">
+    <a href="#-comandos" target="_blank">
         Comandos
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Contribuciones" target="_blank">
+    <a href="#-contribuciones" target="_blank">
         Contribuciones
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Licencia" target="_blank">
+    <a href="#-licencia" target="_blank">
         Licencia
     </a>
     <span>&nbsp;✦&nbsp;</span>

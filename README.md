@@ -30,7 +30,7 @@
         Stack
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-getting-Starter" target="_blank">
+    <a href="#-getting-starter" target="_blank">
         Getting Started
     </a>
     <span>&nbsp;✦&nbsp;</span>
