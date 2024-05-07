@@ -10,39 +10,39 @@
 </p>
 
 <div align="center">
-    <a href="#-about" target="_blank">
+    <a href="#-About" target="_blank">
         About
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-preview" target="_blank">
+    <a href="#-Preview" target="_blank">
         Preview
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-features" target="_blank">
+    <a href="#-Features" target="_blank">
         Features
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-stack" target="_blank">
+    <a href="#-Stack" target="_blank">
         Stack
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-getting-started">
+    <a href="#-Getting-started">
         Getting Started
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-commands">
+    <a href="#-Commands">
         Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-contributions" target="_blank">
+    <a href="#-Contributions" target="_blank">
         Contributions
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-license">
+    <a href="#-License">
         License
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-support">
+    <a href="#-Support">
         Support
     </a>
 </div>
@@ -50,7 +50,7 @@
 ## 📜 About 
 I have created this page with the intention of having all my links in one place. You can find me on all my platforms here. 💜
 
-<p align="right">(<a href="#readme-top" >Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top" >Go Back To Top 🔝</a>)</p>
 
 ## 👀 Preview
 <h4>In a PC (1920x1080)</h4> 
@@ -58,7 +58,7 @@ I have created this page with the intention of having all my links in one place.
 <h4>In a iPhone SE (375x667)</h4>
 <img src="./src/assets/jrlinks-iPhone-SE.png" alt="project-screenshot" width="400">
 
-<p align="right">(<a href="#readme-top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 
 ## 💬 Features
@@ -68,7 +68,7 @@ I have created this page with the intention of having all my links in one place.
 - **Responsive Design**: The website has been designed to be responsive, which means it will look good on devices of all sizes.
 - **Language Localization**: A script for changing the language has been added, making the site more accessible to users who speak different languages.
 
-<p align="right">(<a href="#readme-top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
   
 ## 🛠️ Stack
@@ -79,7 +79,7 @@ I have created this page with the intention of having all my links in one place.
 - [**ESLint**](https://eslint.org/) - It’s an open-source tool that helps you find and fix problems with your JavaScript code.
 - [**Stylelint**](https://stylelint.io/) - It’s a tool that checks your CSS code for syntax, features, and conventions
 
-<p align="right">(<a href="#readme-top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 
 ## 🚀 Getting Starter
@@ -124,18 +124,18 @@ bun run dev
 pnpm run dev
 ```
 
-<p align="right">(<a href="#readme-top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 
 ## 🧞 Commands
-|    | Command         |Action                                  |
-| :--| :--------------- | :------------------------------------ |
-| ⚙️ | `dev`    | Starts local dev server at `localhost:3000`.  |
-| ⚙️ | `build`  | Build your production site to `./dist/`.      |
-| ⚙️ | `preview`| Preview your build locally, before deploying. |
-| ⚙️ | `deploy`| Deploy your website to github pages. |
+|      | Command   | Action                                        |
+| :--- | :-------- | :-------------------------------------------- |
+| ⚙️    | `dev`     | Starts local dev server at `localhost:3000`.  |
+| ⚙️    | `build`   | Build your production site to `./dist/`.      |
+| ⚙️    | `preview` | Preview your build locally, before deploying. |
+| ⚙️    | `deploy`  | Deploy your website to github pages.          |
 
-<p align="right">(<a href="#readme-top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 
 ## 🤝 Contributions
@@ -154,17 +154,17 @@ Here is a quick guide:
 6. Push to the Branch (`git push origin feature/NewFeature`)
 7. Open a [_pull request_](https://github.com/joserafael0160/jrlinks/pulls)
 
-<p align="right">(<a href="#readme-top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 ## 🛡️ License
 [MIT](https://github.com/joserafael0160/jrlinks/blob/main/LICENSE)
 
-<p align="right">(<a href="#readme-top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 ## 🙏Support
 Don't forget to leave a star ⭐️
 
-<p align="right">(<a href="#readme-top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
 <p align="center">✌️</p>
 <p align="center">
