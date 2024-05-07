@@ -26,7 +26,7 @@ Si quieres leer este readme en ingles:
         Características
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-tecnologías" target="_blank">
+    <a href="#-🛠️-tecnologías" target="_blank">
         Tecnologías
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -42,7 +42,7 @@ Si quieres leer este readme en ingles:
         Contribuciones
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-licencia" target="_blank">
+    <a href="#-🛡️-licencia" target="_blank">
         Licencia
     </a>
     <span>&nbsp;✦&nbsp;</span>
