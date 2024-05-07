@@ -26,7 +26,7 @@
         Features
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-🛠️-Stack" target="_blank">
+    <a href="#--stack" target="_blank">
         Stack
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -42,7 +42,7 @@
         Contributions
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-🛡️-License" target="_blank">
+    <a href="#-license" target="_blank">
         License
     </a>
     <span>&nbsp;✦&nbsp;</span>
