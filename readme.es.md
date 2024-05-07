@@ -76,7 +76,7 @@ He creado esta página con la intención de tener todos mis enlaces en un solo l
 <p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
   
-## 🛠️ Tecnologías
+## 🧰 Tecnologías
 - [**Vite**](https://vitejs.dev/) - Es una herramienta rápida y flexible para construir y probar aplicaciones JavaScript.
 - [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML) - Es el lenguaje de marcado estándar para páginas web.
 - [**PostCSS**](https://postcss.org/) - Te permite usar características modernas de CSS y plugins para escribir y procesar CSS con JavaScript.

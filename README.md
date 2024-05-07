@@ -75,7 +75,7 @@ I have created this page with the intention of having all my links in one place.
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
   
-## 🛠️ Stack
+## 🧰 Stack
 - [**Vite**](https://vitejs.dev/) - It’s a fast and flexible tool for building and testing JavaScript applications.
 - [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML) - It’s the standard markup language for web pages.
 - [**PostCSS**](https://postcss.org/) - It allows you to use modern CSS features and plugins to write and process CSS with JavaScript.
