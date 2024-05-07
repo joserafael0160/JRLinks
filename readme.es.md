@@ -1,10 +1,5 @@
 <a id="top"></a>
-<h1 align="center">🔗 JRLinks</h1>
-
->Si quieres leer este readme en **inglés**:
->- [**README en Inglés**](https://github.com/joserafael0160/jrlinks/blob/main/README.md)
-
-  
+<h1 align="center">🔗 JRLinks</h1>  
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Hecho con amor">
@@ -51,6 +46,9 @@
         Soporte
     </a>
 </div>
+
+>Si quieres leer este readme en **inglés**:
+>- [**README en Inglés**](https://github.com/joserafael0160/jrlinks/blob/main/README.md)
 
 ## 📜 Acerca Del Proyecto
 He creado esta página con la intención de tener todos mis enlaces en un solo lugar. Aquí puedes encontrarme en todas mis plataformas. 💜

@@ -1,8 +1,6 @@
 <a id="top"></a>
 <h1 align="center">🔗 JRLinks</h1>
 
- >If you want to read this readme in **Spanish**
->- [**Spanish README**](https://github.com/joserafael0160/jrlinks/blob/main/readme.es.md)
 
 <p align="center">
   <a href="#">
@@ -50,6 +48,10 @@
         Support
     </a>
 </div>
+<br>
+
+>If you want to read this readme in **Spanish**
+>- [**Spanish README**](https://github.com/joserafael0160/jrlinks/blob/main/readme.es.md)
 
 ## 📜 About 
 I have created this page with the intention of having all my links in one place. You can find me on all my platforms here. 💜
