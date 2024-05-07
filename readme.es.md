@@ -2,7 +2,7 @@
 <h1 align="center">🔗 JRLinks</h1>
 
 Si quieres leer este readme en ingles:
-- [Inglés](https://github.com/joserafael0160/jrlinks/blob/main/readme.md)
+- [Inglés](https://github.com/joserafael0160/jrlinks/blob/main/README.md)
    
 <p align="center">
   <a href="#">
