@@ -1,5 +1,9 @@
 <a id="top"></a>
 <h1 align="center">🔗 JRLinks</h1>
+
+ If you want to read this readme in Spanish
+- [Spanish](https://github.com/joserafael0160/jrlinks/blob/main/readme.es)
+
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Made with love">
@@ -130,7 +134,7 @@ pnpm run dev
 ## 🧞 Commands
 |      | Command   | Action                                        |
 | :--- | :-------- | :-------------------------------------------- |
-| ⚙️    | `dev`     | Starts local dev server at `localhost:3000`.  |
+| ⚙️    | `dev`     | Starts local dev server.  |
 | ⚙️    | `build`   | Build your production site to `./dist/`.      |
 | ⚙️    | `preview` | Preview your build locally, before deploying. |
 | ⚙️    | `deploy`  | Deploy your website to github pages.          |
@@ -165,9 +169,9 @@ Here is a quick guide:
 Don't forget to leave a star ⭐️
 
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
-
+<br>
+<hr>
 <p align="center">✌️</p>
 <p align="center">
 <sub><sup>A project created by <a href="https://github.com/joserafael0160">@joserafael0160</a></sup></sub>
 </p>
-

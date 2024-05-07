@@ -1,5 +1,9 @@
 <a id="top"></a>
 <h1 align="center">🔗 JRLinks</h1>
+
+Si quieres leer este readme en ingles:
+- [Inglés](https://github.com/joserafael0160/jrlinks/blob/main/readme)
+   
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Hecho con amor">
@@ -10,210 +14,132 @@
 </p>
 
 <div align="center">
-    <a href="#-acerca-del-proyecto" target="_blank">
+    <a href="#-Acerca-Del-Proyecto" target="_blank">
         Acerca Del Proyecto
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-vista-previa" target="_blank">
-        Vista previa
+    <a href="#-Vista-Previa" target="_blank">
+        Vista Previa
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-features" target="_blank">
-        Features
+    <a href="#-Características" target="_blank">
+        Características
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-stack" target="_blank">
-        Stack
+    <a href="#-Tecnologías" target="_blank">
+        Tecnologías
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-getting-started">
-        Getting Started
+    <a href="#-Cómo-Empezar">
+        Cómo Empezar
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-commands">
-        Commands
+    <a href="#-Comandos">
+        Comandos
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-contributions" target="_blank">
-        Contributions
+    <a href="#-Contribuciones" target="_blank">
+        Contribuciones
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-license">
-        License
+    <a href="#-Licencia">
+        Licencia
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-support">
-        Support
+    <a href="#-Soporte">
+        Soporte
     </a>
 </div>
 
-## 📜 About 
-I have created this page with the intention of having all my links in one place. You can find me on all my platforms here. 💜
+## 📜 Acerca Del Proyecto
+He creado esta página con la intención de tener todos mis enlaces en un solo lugar. Aquí puedes encontrarme en todas mis plataformas. 💜
 
-<p align="right">(<a href="#top" >Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top" >Volver al inicio 🔝</a>)</p>
 
-## 👀 Preview
-<h4>In a PC (1920x1080)</h4> 
+## 👀 Vista previa
+<h4>En una PC (1920x1080)</h4> 
 <img src="./src/assets/jrlinks-PC.webp">
-<h4>In a iPhone SE (375x667)</h4>
+<h4>En un iPhone SE (375x667)</h4>
 <img src="./src/assets/jrlinks-iPhone-SE.png" alt="project-screenshot" width="400">
 
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
 
-## 💬 Features
-- **Links**: Links to various Social Media Platforms, Messaging Platforms and Games/Educational Platforms.
-- **Favicon Support**: Support for a wide range of favicon sizes has been added, ensuring that the site’s icon displays correctly on all devices and platforms.
-- **Open Graph and Twitter Tags**: Open Graph and Twitter meta tags have been included, which optimize the preview of the website on social platforms like Facebook and Twitter.
-- **Responsive Design**: The website has been designed to be responsive, which means it will look good on devices of all sizes.
-- **Language Localization**: A script for changing the language has been added, making the site more accessible to users who speak different languages.
+## 💬 Características
+- **Enlaces**: Enlaces a varias Plataformas de Redes Sociales, Plataformas de Mensajería y Plataformas de Juegos/Educativas.
+- **Soporte de Favicon**: Se ha añadido soporte para una amplia gama de tamaños de favicon, asegurando que el icono del sitio se muestre correctamente en todos los dispositivos y plataformas.
+- **Etiquetas de Open Graph y Twitter**: Se han incluido etiquetas meta de Open Graph y Twitter, que optimizan la vista previa del sitio web en plataformas sociales como Facebook y Twitter.
+- **Responsive Design**: El sitio web ha sido diseñado para ser responsivo, lo que significa que se verá bien en dispositivos de todos los tamaños.
+- **Localización de idiomas**: Se ha añadido un script para cambiar el idioma, haciendo el sitio más accesible para los usuarios que hablan diferentes idiomas.
 
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
   
-## 🛠️ Stack
-- [**Vite**](https://vitejs.dev/) - It’s a fast and flexible tool for building and testing JavaScript applications.
-- [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML) - It’s the standard markup language for web pages.
-- [**PostCSS**](https://postcss.org/) - It allows you to use modern CSS features and plugins to write and process CSS with JavaScript.
-- [**JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript) - It’s the world’s most popular programming language.
-- [**ESLint**](https://eslint.org/) - It’s an open-source tool that helps you find and fix problems with your JavaScript code.
-- [**Stylelint**](https://stylelint.io/) - It’s a tool that checks your CSS code for syntax, features, and conventions
+## 🛠️ Tecnologías
+- [**Vite**](https://vitejs.dev/) - Es una herramienta rápida y flexible para construir y probar aplicaciones JavaScript.
+- [**HTML**](https://developer.mozilla.org/es/docs/Web/HTML) - Es el lenguaje de marcado estándar para páginas web.
+- [**PostCSS**](https://postcss.org/) - Te permite usar características modernas de CSS y plugins para escribir y procesar CSS con JavaScript.
+- [**JavaScript**](https://developer.mozilla.org/es/docs/Web/JavaScript) - Es el lenguaje de programación más popular del mundo.
+- [**ESLint**](https://eslint.org/) - Es una herramienta de código abierto que te ayuda a encontrar y solucionar problemas con tu código JavaScript.
+- [**Stylelint**](https://stylelint.io/) - Es una herramienta que revisa tu código CSS en busca de sintaxis, características y convenciones.
 
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
 
-## 🚀 Getting Starter
-1. **Fork** or clone this repository
+## 🚀 Cómo Empezar
+1. **Haz un Fork** o clona este repositorio
 
 ```bash
 git clone git@github.com:joserafael0160/JRLinks.git
 ```
 
-2. Install the dependencies: 
+2. Instala las dependencias:
 
-- I used [**bun**](https://bun.sh) to install and manage the dependencies.
+- Usé [**bun**](https://bun.sh) para instalar y gestionar las dependencias.
   
 ```bash
-# Install bun for MacOS, WSL & Linux:
+## Instala bun para MacOS, WSL & Linux:
 curl -fsSL https://bun.sh/install | bash
 
-# Install bun for Windows:
+# Instala bun para Windows:
 powershell -c "iwr bun.sh/install.ps1|iex"
 
-# Install with bun:
+# Instala con bun:
 bun install
 ```
 
-- or you can use [**pnpm**](https://pnpm.io):
+- o puedes usar [**pnpm**](https://pnpm.io):
 
 ```bash
-# Install pnpm globally if you don't have it:
+# Instala pnpm globalmente si no lo tienes:
 npm install -g pnpm
 
-# Install dependencies:
+# Instala las dependencias:
 pnpm install
 ```
 
-3. Run the development server:
+3. Ejecuta el servidor de desarrollo:
 
 ```bash
-# Run with bun:
+# Ejecuta con bun:
 bun run dev
 
-# Run with pnpm:
+# Ejecuta con pnpm:
 pnpm run dev
 ```
 
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
+<p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
 
-## 🧞 Commands
-|      | Command   | Action                                        |
+## 🧞 Comandos
+|      | Comando   | Acción                                        |
 | :--- | :-------- | :-------------------------------------------- |
-| ⚙️    | `dev`     | Starts local dev server at `localhost:3000`.  |
-| ⚙️    | `build`   | Build your production site to `./dist/`.      |
-| ⚙️    | `preview` | Preview your build locally, before deploying. |
-| ⚙️    | `deploy`  | Deploy your website to github pages.          |
+| ⚙️    | `dev`     | Inicia el servidor de desarrollo local.  |
+| ⚙️    | `build`   | Construye tu sitio de producción en `./dist/`.      |
+| ⚙️    | `preview` | Previsualiza tu construcción localmente, antes de desplegar. |
+| ⚙️    | `deploy`  | Despliega tu sitio web en github pages.          |
 
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
-
-
-## 🤝 Contributions
-
-Contributions are always welcome! Whether you’re reporting bugs, requesting new features, or improving existing functionalities, your help is **greatly appreciated**.
-
-If you have any suggestions that could improve the project, please make a [_fork_](https://github.com/joserafael0160/jrlinks/fork) of the repository and create a [_pull request_](https://github.com/joserafael0160/jrlinks/pulls). You can also simply open an [_issue_](https://github.com/joserafael0160/jrlinks/issues) with the “enhancement” label.
-
-Here is a quick guide:
-
-1. Make a [_fork_](https://github.com/joserafael0160/jrlinks/fork) of the Project
-2. Clone your [_fork_](https://github.com/joserafael0160/jrlinks/fork) (`git clone <URL of the fork>`)
-3. Add the original repository as remote (`git remote add upstream <URL of the original repository>`)
-4. Create your Feature Branch (`git switch -c feature/NewFeature`)
-5. Make your Changes (`git commit -m 'Add: some NewFeature'`)
-6. Push to the Branch (`git push origin feature/NewFeature`)
-7. Open a [_pull request_](https://github.com/joserafael0160/jrlinks/pulls)
-
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
-
-## 🛡️ License
-[MIT](https://github.com/joserafael0160/jrlinks/blob/main/LICENSE)
-
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
-
-## 🙏Support
-Don't forget to leave a star ⭐️
-
-<p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
-
-<p align="center">✌️</p>
-<p align="center">
-<sub><sup>A project created by <a href="https://github.com/joserafael0160">@joserafael0160</a></sup></sub>
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
 ## 🤝 Contribuciones
 
@@ -230,3 +156,22 @@ Aquí tienes una guía rápida:
 5. Realiza tus Cambios (`git commit -m 'Add: alguna CaracterísticaNueva'`)
 6. Haz Push a la Rama (`git push origin feature/CaracteristicaNueva`)
 7. Abre una [_pull request_](https://github.com/joserafael0160/jrlinks/pulls)
+
+<p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
+
+## 🛡️ Licencia
+[MIT](https://github.com/joserafael0160/jrlinks/blob/main/LICENSE)
+
+<p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
+
+## 🙏 Soporte
+No olvides dejar una estrella ⭐️
+
+<p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
+
+<br>
+<hr>
+<p align="center">✌️</p>
+<p align="center">
+<sub><sup>Un proyecto creado por <a href="https://github.com/joserafael0160">@joserafael0160</a></sup></sub>
+</p>
