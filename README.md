@@ -30,11 +30,11 @@
         Stack
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Getting-started">
+    <a href="#-Getting-started" target="_blank">
         Getting Started
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Commands">
+    <a href="#-Commands" target="_blank">
         Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -42,11 +42,11 @@
         Contributions
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-License">
+    <a href="#-License" target="_blank">
         License
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Support">
+    <a href="#-Support" target="_blank">
         Support
     </a>
 </div>

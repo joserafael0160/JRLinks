@@ -30,11 +30,11 @@ Si quieres leer este readme en ingles:
         Tecnologías
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Cómo-Empezar">
+    <a href="#-Cómo-Empezar" target="_blank">
         Cómo Empezar
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Comandos">
+    <a href="#-Comandos" target="_blank">
         Comandos
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -42,11 +42,11 @@ Si quieres leer este readme en ingles:
         Contribuciones
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Licencia">
+    <a href="#-Licencia" target="_blank">
         Licencia
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Soporte">
+    <a href="#-Soporte" target="_blank">
         Soporte
     </a>
 </div>
