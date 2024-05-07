@@ -14,39 +14,39 @@
 </p>
 
 <div align="center">
-    <a href="#-About" target="_blank">
+    <a href="#-about" target="_blank">
         About
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Preview" target="_blank">
+    <a href="#-preview" target="_blank">
         Preview
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Features" target="_blank">
+    <a href="#-features" target="_blank">
         Features
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Stack" target="_blank">
+    <a href="#-stack" target="_blank">
         Stack
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Getting-started" target="_blank">
+    <a href="#-getting-Starter" target="_blank">
         Getting Started
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Commands" target="_blank">
+    <a href="#-commands" target="_blank">
         Commands
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Contributions" target="_blank">
+    <a href="#-contributions" target="_blank">
         Contributions
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-License" target="_blank">
+    <a href="#-license" target="_blank">
         License
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-Support" target="_blank">
+    <a href="#-support" target="_blank">
         Support
     </a>
 </div>
@@ -165,7 +165,7 @@ Here is a quick guide:
 
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
-## 🙏Support
+## 🙏 Support
 Don't forget to leave a star ⭐️
 
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
