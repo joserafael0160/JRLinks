@@ -1,9 +1,10 @@
 <a id="top"></a>
 <h1 align="center">🔗 JRLinks</h1>
 
-Si quieres leer este readme en ingles:
-- [Inglés](https://github.com/joserafael0160/jrlinks/blob/main/README.md)
-   
+>Si quieres leer este readme en **inglés**:
+>- [**README en Inglés**](https://github.com/joserafael0160/jrlinks/blob/main/README.md)
+
+  
 <p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/made%20with-love-E760A4.svg" alt="Hecho con amor">
@@ -26,7 +27,7 @@ Si quieres leer este readme en ingles:
         Características
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#--tecnologías" target="_blank">
+    <a href="#-tecnologías" target="_blank">
         Tecnologías
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -42,7 +43,7 @@ Si quieres leer este readme en ingles:
         Contribuciones
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#--licencia" target="_blank">
+    <a href="#-licencia" target="_blank">
         Licencia
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -159,7 +160,7 @@ Aquí tienes una guía rápida:
 
 <p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>
 
-## 🛡️ Licencia
+## 🔑 Licencia
 [MIT](https://github.com/joserafael0160/jrlinks/blob/main/LICENSE)
 
 <p align="right">(<a href="#top">Volver al inicio 🔝</a>)</p>

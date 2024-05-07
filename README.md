@@ -1,8 +1,8 @@
 <a id="top"></a>
 <h1 align="center">🔗 JRLinks</h1>
 
- If you want to read this readme in Spanish
-- [Spanish](https://github.com/joserafael0160/jrlinks/blob/main/readme.es.md)
+ >If you want to read this readme in **Spanish**
+>- [**Spanish README**](https://github.com/joserafael0160/jrlinks/blob/main/readme.es.md)
 
 <p align="center">
   <a href="#">
@@ -26,7 +26,7 @@
         Features
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#--stack" target="_blank">
+    <a href="#-stack" target="_blank">
         Stack
     </a>
     <span>&nbsp;✦&nbsp;</span>
@@ -160,7 +160,7 @@ Here is a quick guide:
 
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
 
-## 🛡️ License
+## 🔑 License
 [MIT](https://github.com/joserafael0160/jrlinks/blob/main/LICENSE)
 
 <p align="right">(<a href="#top">Go Back To Top 🔝</a>)</p>
