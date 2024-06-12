@@ -341,8 +341,12 @@ main {
     & header {
       grid-column: 1/-1 ;
       grid-row: 1/3 ;
-      background: url("./../images/webp/card.webp") center no-repeat;
+      background: url("./../images/webp/Omori.webp") center no-repeat;
       background-size: 100%;
+      
+      & h2 {
+        color: #f23;
+      }
     }
 
     & .portfolio {
