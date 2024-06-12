@@ -29,6 +29,7 @@
   "keywords": [],
   "license": "ISC",
   "dependencies": {
+    "@fontsource-variable/onest": "^5.0.4",
     "rollup-plugin-terser": "^7.0.2"
   }
 }
