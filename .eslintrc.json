@@ -1,6 +1,0 @@
-{
-  "extends": "eslint-config-manzdev",
-  "rules": {
-    "prefer-template": "off"
-  }
-}
