@@ -1,1 +1,43 @@
-aa
+---
+const navItems = [
+  {
+    title: "Social",
+    label: "Social",
+    url: "#social"
+  },
+  {
+    title: "Messaging",
+    label: "Messaging",
+    url: "#messaging"
+  },
+  {
+    title: "Games/Educational",
+    label: "Games/Educational",
+    url: "#games/educational"
+  },
+  {
+    title: "Projects",
+    label: "Projects",
+    url: "#projects"
+  }
+]
+---
+
+<header class="fixed top-0 z-10 flex items-center justify-y-center w-full mx-auto mt-2">
+  <nav class="flex px-3 font-medium rounded-full text-gray-200 w-full justify-center items-center text-sm">
+    {
+      navItems.map((link) => (
+        <a 
+          class="relative block px-2 py-2 transition hover:text-blue-600 "
+          aria-label={link.label}
+          href={link.url}
+          title={link.title}
+
+        > 
+          {link.title}
+        </a>
+      ))
+    }
+    
+  </nav>
+</header>
