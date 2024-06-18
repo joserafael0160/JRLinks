@@ -1,6 +1,6 @@
 ---
-import Header from '../components/Header.astro';
-
+import Header from "../components/Header.astro";
+import Footer from "../components/Footer.astro";
 
 interface Props {
 	title: string;
@@ -31,8 +31,9 @@ const { title } = Astro.props;
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 	</head>
 	<body class="relative text-white">
-		<Header/>
+		<Header />
 		<slot />
+		<Footer />
 	</body>
 </html>
 <style is:global>
@@ -52,12 +53,10 @@ const { title } = Astro.props;
 		overscroll-behavior: none;
 		margin-top: 60px;
 	}
-	
-	@media (prefers-reduced-motion: reduce) {
-    html {
-      scroll-behavior: auto;
-    }
-  }
 
-	
+	@media (prefers-reduced-motion: reduce) {
+		html {
+			scroll-behavior: auto;
+		}
+	}
 </style>

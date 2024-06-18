@@ -1,5 +1,4 @@
 ---
-import GitHubIcon from "../assets/Icons/GitHubIcon.astro"
 const navItems = [
   {
     title: "Social",
@@ -25,11 +24,11 @@ const navItems = [
 ---
 
 <header class="fixed top-0 z-10 flex items-center justify-y-center w-full mx-auto">
-<nav class="flex gap-4 font-medium text-gray-200 w-full justify-center items-center text-sm border-gray-900 py-5">
+<nav class="flex gap-4 font-medium text-gray-200 w-full justify-center items-center text-sm border-gray-900 py-4">
     {
       navItems.map((link) => (
         <a 
-          class="relative block transition hover:text-blue-600 "
+          class="relative block transition hover:text-blue-600 p-1"
           aria-label={link.label}
           href={link.url}
           title={link.title}
@@ -39,9 +38,6 @@ const navItems = [
         </a>
       ))
     }
-    <a href="https://github.com/joserafael0160/JRLinks" target="_blank" rel="noopener noreferrer" class="absolute right-2 w-8">
-      <GitHubIcon class="w-full hover:scale-110 transition"/>
-    </a>
   </nav>
 </header>
 
