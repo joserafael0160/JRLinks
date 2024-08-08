@@ -336,7 +336,7 @@ main {
   
   & .projects {
     grid-template-rows: repeat(3, 1fr);
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(3, 1fr);
 
     & header {
       grid-column: 1/-1 ;
@@ -350,13 +350,28 @@ main {
     }
 
     & .portfolio {
-      background: #3ab url("./../images/Character-removebg-preview.png") no-repeat center;
-      background-size: 24%;
+      background: #603085 url("./../images/pngs/Character-removebg-preview.png") no-repeat center;
+      background-size: 30%;
     }
     
     & .calculator {
       background: #222 url("./../images/svgs/calculator.svg") no-repeat center;
-      background-size: 17%;
+      background-size: 23%;
+    }
+
+    & .tictactoe {
+      background: #c3c url("./../images/pngs/tic-tac-toe.png") no-repeat center;
+      background-size: 24%;
+    }
+
+    & .moviefinder {
+      background: #224 url("./../images/pngs/movie-finder.png") no-repeat center;
+      background-size: 24%;
+    }
+
+    & .e-commerce {
+      background: #abb url("./../images/pngs/E-commerce.png") no-repeat center;
+      background-size: 25%;
     }
   }
 }
